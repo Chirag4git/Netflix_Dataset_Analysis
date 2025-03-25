@@ -8,18 +8,18 @@ This project explores the **Netflix dataset**, analyzing trends in content avail
 - **Netflix Titles Data**: Contains details about movies and TV shows on Netflix.
   
 The data is available in a single csv file :
-● Show ID : The ID of the show
-● Type: Identifier - A Movie or TV Show
-● Title: Title of the Movie / Tv Show
-● Director: Director of the Movie
-● Cast: Actors involved in the movie/show
-● Country: Country where the movie/show was produced
-● Date_added: Date it was added on Netflix
-● Release_year: Actual Release year of the movie/show
-● Rating: TV Rating of the movie/show
-● Duration: Total Duration - in minutes or number of seasons
-● Listed_in: Genre
-● Description: The summary description
+- Show ID : The ID of the show
+- Type: Identifier - A Movie or TV Show
+- Title: Title of the Movie / Tv Show
+- Director: Director of the Movie
+- Cast: Actors involved in the movie/show
+- Country: Country where the movie/show was produced
+- Date_added: Date it was added on Netflix
+- Release_year: Actual Release year of the movie/show
+- Rating: TV Rating of the movie/show
+- Duration: Total Duration - in minutes or number of seasons
+- Listed_in: Genre
+- Description: The summary description
 
 ## **📈 Key Insights & Visualizations**  
 1. **Content Trends** – Analysis of **movie vs. TV show distribution** over the years.  
