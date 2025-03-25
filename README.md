@@ -5,7 +5,7 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 This project explores the **Netflix dataset**, analyzing trends in content availability, genre distribution, ratings, and release patterns using **Python libraries** like Pandas, Matplotlib, and Seaborn.
 
 ## **📊 Dataset Information**  
-- **Netflix Titles Data**: Contains details about movies and TV shows on Netflix.
+**Netflix Titles Data**: Contains details about movies and TV shows on Netflix.
   
 The data is available in a single csv file :
 - Show ID : The ID of the show
